@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blogtech",
+  "main": "index.js",
+ 
+    "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyendat1234/Mern-blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "nguyendat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyendat1234/Mern-blog/issues"
+  },
+  "homepage": "https://github.com/nguyendat1234/Mern-blog#readme"
+}
